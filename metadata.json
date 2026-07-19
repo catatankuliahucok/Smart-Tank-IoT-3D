@@ -1,0 +1,6 @@
+{
+  "name": "Smart Water Tank Digital Twin",
+  "description": "Real-time 3D Digital Twin visualization for a Smart Water Tank IoT system with dynamic water level animations, ESP32 microcontroller firmware generation via Gemini, full MQTT integration simulation, and automatic dark mode controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
